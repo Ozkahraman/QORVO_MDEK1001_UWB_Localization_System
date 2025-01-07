@@ -1,4 +1,4 @@
-# Position estimation from Decawave DWM1001 distance measurements
+# Position estimation from Decawave DWM1001 distance measurements for KOU-MEKATRONOM 2025 Bosch Future Mobility Challenge Car
 
 This tutorial shows how the position of a tag can be estimated from the raw distance measurements made by Decawave MDEK1001 development kit.
 
